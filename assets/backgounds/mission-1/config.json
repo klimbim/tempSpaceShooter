@@ -1,0 +1,12 @@
+{
+	"comment": "весь этот файл ЭТО ПРИМЕР. Его можно взять за основу, а можно не брать",
+	"scrollSpeed": 0.5,
+	"parallax": {
+		"far": 0.2,
+		"mid": 0.5,
+		"near": 0.8
+	},
+	"colorTint": "#8899ff",
+	"ambientLight": 0.6,
+	"objectSpawnRate": "low"
+}

@@ -1,0 +1,10 @@
+{
+	"comment": "весь этот файл ЭТО ПРИМЕР. Его можно взять за основу, а можно не брать",
+	"id": "mission_03",
+	"background": "nebula",
+	"boss": "dread_core",
+	"bossPhaseOverrides": {
+		"phaseCount": 2,
+		"enragedAt": 0.3
+	}
+}
